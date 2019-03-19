@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "get-json": "^1.0.1"
+    "bluebird": "^3.5.3",
+    "get-json": "^1.0.1",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }
